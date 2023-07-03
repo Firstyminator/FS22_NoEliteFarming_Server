@@ -1,5 +1,6 @@
-# FS22_RPServer
-NoElite FS22 RP Server Mods List 1.0
+# FS22_NoEliteFarming_Server
+
+FS22 NoElite Farming Server Mods List 1.0
 
 Maps: // * Active
 *FS22_TheGreenValleyMap.zip                                           
