@@ -1,11 +1,12 @@
 # FS22_RPServer
 NoElite FS22 RP Server Mods List 1.0
 
-Maps:
-FS22_TheGreenValleyMap.zip                                           
-//FS22_TheOldFarmCountryside.zip                                                       
-//FS22_Azura.zip
+Maps: // * Active
+*FS22_TheGreenValleyMap.zip                                           
+FS22_TheOldFarmCountryside.zip                                                       
+FS22_Azura.zip
 
+Mods: // *Inactive
 FS22_114G_Series.zip                                                 
 FS22_1Axle_FlatBed_FSM.zip                                           
 FS22_20ftGooseneckSeries.zip                                         
